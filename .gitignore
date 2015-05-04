@@ -1,0 +1,7 @@
+*.orig
+*.gz
+*.userprefs
+KSPx64Converter/bin/*
+KSPx64Converter/obj/*
+*.suo
+*.csproj.user
